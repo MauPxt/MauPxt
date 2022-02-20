@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MauPxt?tab=repositories](https://github.com/MauPxt?tab=repositories)
-
 - 📫 How to reach me **mspwrk@hotmail.com**
 
 - ⚡ Fun fact **I love cats and cactus!**
