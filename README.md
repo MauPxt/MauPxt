@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
-<h3 align="center">From Brazil. Economics student and a self taught programmer.</h3>
+<h3 align="center">Brazillian economics student and a self taught programmer.</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
