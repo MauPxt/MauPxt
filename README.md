@@ -15,7 +15,7 @@
 
 ##
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mauricio-peixoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricio-peixoto" height="30" width="40" /></a>
 <a href="https://medium.com/@mauriciopeixoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mauriciopeixoto" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
 
 ##
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" traget="_blank" rel="noreferrer" > <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R-project" width="40" height="40"/> </a>
