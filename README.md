@@ -1,17 +1,17 @@
 <h1 align="center">Oi 👋, eu sou o Mauricio Peixoto!</h1>
 <h3 align="center">Cientista de Dados e graduando em economia</h3>
 
-- 🔭 No momento estou trabalhando [Plataforma MM](https://linktr.ee/mmblaze)
+- 🔭 No momento estou trabalhando no projeto: [Plataforma MM](https://linktr.ee/mmblaze)
 
-- 🌱 Eu estou aprendendo **Business Inteligente: Ciência de Dados**
+- 🌱 Eu estou aprendendo: **Business Inteligente: Ciência de Dados**
 
-- 📝 Escrevo regularmente artigos [https://medium.com/@mauriciopeixoto](https://medium.com/@mauriciopeixoto)
+- 📝 Escrevo artigos: [https://medium.com/@mauriciopeixoto](https://medium.com/@mauriciopeixoto)
 
-- 💬 Pergunte-me sobre **Python, R, SQL**
+- 💬 Pergunte-me sobre: **Python, R, SQL**
 
-- 📫 Contato **mspwrk@hotmail.com**
+- 📫 Contato: **mspwrk@hotmail.com**
 
-- ⚡ Fatos engraçados **Eu amo animais, cactus e também jogos de gerenciamento**
+- ⚡ Fatos engraçados: **Eu amo animais, cactus e também jogos de gerenciamento**
 
 ##
 
