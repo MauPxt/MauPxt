@@ -11,7 +11,7 @@
 
 - 📫 Contato: **mspwrk@hotmail.com**
 
-- ⚡ Fatos engraçados: **Eu amo animais, cactus e também jogos de gerenciamento**
+- ⚡ Fatos engraçados: **Eu amo animais, cactos e também jogos de gerenciamento**
 
 ##
 
